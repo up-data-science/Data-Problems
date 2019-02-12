@@ -10,7 +10,7 @@ All codes with the next structure will make the help easier!:
 - **Data**: Your databases, json files, pkl or other data format.
 - **README.md**: Explaining your problem! 
 
-ex: `NN_challenge`
+ex: `NN_Company_challenge`
 
 # Markdown editors for jupyter notebooks and README.md
 
